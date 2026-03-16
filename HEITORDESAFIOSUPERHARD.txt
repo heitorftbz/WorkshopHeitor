@@ -1,0 +1,6 @@
+idade = int(input("Digite sua idade?"))
+
+if (idade >= 18):
+ print ("voce ja pode se alistar")
+else:
+ print ("voce nao tem idade o suficiente")
